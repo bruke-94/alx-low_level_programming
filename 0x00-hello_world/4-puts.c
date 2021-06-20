@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- *main - use printf typeof
- *Description: output with printf
- *Return: 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
