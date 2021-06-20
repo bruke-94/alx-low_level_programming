@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
-* main-prints string   
-* Return: 0 upon successful compilation
-*/
+ *main - Entry point
+ *
+ *Return: retun non after printing
+ */
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
